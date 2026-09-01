@@ -1,9 +1,13 @@
 testi testi
 
 toimiiko
+<<<<<<< HEAD
 
 branchi muutos
 uusi muutos
 
+=======
+testi branchi kokeilu
+>>>>>>> b8e32aa (testi branchi muutos)
 
 uusi muutos
